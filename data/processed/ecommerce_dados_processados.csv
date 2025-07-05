@@ -1,0 +1,8 @@
+ID_Venda,Data,ID_Produto,Quantidade,Preco_Unitario,ID_Cliente,Nome_Produto,Categoria,Custo_Unitario,Nome_Cliente,Email,Cidade,Estado,Valor_Total_Venda,Custo_Total_Venda,Margem_Lucro,Ano,Mes,Dia
+1,2023-01-05,P001,2,10.5,C101,Laptop Gamer,Eletrônicos,800.0,Ana Silva,ana.silva@email.com,São Paulo,SP,21.0,1600.0,-1579.0,2023,1,5
+3,2023-01-07,P001,3,10.0,C103,Laptop Gamer,Eletrônicos,800.0,Carla Oliveira,carla.oliveira@email.com,Belo Horizonte,MG,30.0,2400.0,-2370.0,2023,1,7
+7,2023-01-11,P005,1,30.0,C102,Monitor UltraWide,Eletrônicos,400.0,Bruno Santos,bruno.santos@email.com,Rio De Janeiro,RJ,30.0,400.0,-370.0,2023,1,11
+9,2023-01-13,P001,2,10.5,C101,Laptop Gamer,Eletrônicos,800.0,Ana Silva,ana.silva@email.com,São Paulo,SP,21.0,1600.0,-1579.0,2023,1,13
+11,2023-01-15,P008,1,75.0,C108,Fone de Ouvido,Eletrônicos,100.0,Henrique Almeida,henrique.almeida@email.com,Fortaleza,CE,75.0,100.0,-25.0,2023,1,15
+13,2023-01-17,P010,1,100.0,C110,SSD 1TB,Componentes,120.0,Joao Pereira,joao.pereira@email.com,São Paulo,SP,100.0,120.0,-20.0,2023,1,17
+15,2023-01-19,P002,2,25.0,C102,Smartphone X,Eletrônicos,500.0,Bruno Santos,bruno.santos@email.com,Rio De Janeiro,RJ,50.0,1000.0,-950.0,2023,1,19

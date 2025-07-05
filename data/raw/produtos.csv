@@ -1,0 +1,12 @@
+ID_Produto,Nome_Produto,Categoria,Custo_Unitario
+P001,Laptop Gamer,Eletronicos,800.00
+P002,Smartphone X,Eletronicos,500.00
+P003,Teclado Mecanico,Acessorios,50.00
+P004,Mouse sem Fio,Acessorios,20.00
+P005,Monitor UltraWide,Eletrônicos,400.00
+P006,Cadeira Gamer,Mobiliario,250.00
+P007,Webcam HD,Acessorios,30.00
+P008,Fone de Ouvido,Eletronicos,100.00
+P009,Microfone Condensador,Audio,75.00
+P010,SSD 1TB,Componentes,120.00
+P011,Pendrive 64GB,null,5.00
